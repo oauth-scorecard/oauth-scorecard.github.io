@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://oauth-scorecard.github.io/sitemap.xml 
