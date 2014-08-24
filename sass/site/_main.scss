@@ -1,0 +1,20 @@
+.main-actions{
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.providers{
+  .provider{
+    & > .panel-body{
+      height: 125px;
+    }
+
+
+    .logo{
+      max-width: 100%;
+      max-height: 100%;
+    }
+  }
+}
