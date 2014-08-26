@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[OAuth Scorecard]]></title>
   <link href="http://oauth-scorecard.github.io/atom.xml" rel="self"/>
   <link href="http://oauth-scorecard.github.io/"/>
-  <updated>2014-08-24T00:06:34-06:00</updated>
+  <updated>2014-08-26T00:17:21-06:00</updated>
   <id>http://oauth-scorecard.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Your friendly neighborhood OAuth guy]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

@@ -4,29 +4,127 @@
   
   
   <url>
-    <loc>http://oauth-scorecard.github.io/blog/archives/</loc>
-    <lastmod>2014-08-24T00:06:34-06:00</lastmod>
+    <loc>http://oauth-scorecard.github.io/providers/bitbucket.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://oauth-scorecard.github.io/blog/</loc>
-    <lastmod>2014-08-24T00:06:34-06:00</lastmod>
+    <loc>http://oauth-scorecard.github.io/providers/box.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/dropbox.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/evernote.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/facebook.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/flickr.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/github.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/google.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://oauth-scorecard.github.io/</loc>
-    <lastmod>2014-08-24T00:06:34-06:00</lastmod>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
+    <loc>http://oauth-scorecard.github.io/blog/</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/blog/archives/</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>http://oauth-scorecard.github.io/providers/</loc>
-    <lastmod>2014-08-24T00:06:34-06:00</lastmod>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/instagram.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/paypal.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/salesforce.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/square.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/stripe.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://oauth-scorecard.github.io/providers/twitter.html</loc>
+    <lastmod>2014-08-26T00:17:21-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
