@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://oauth-scorecard.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: OAuth Scorecard
+subtitle:
+author: Your friendly neighborhood OAuth guy
 simple_search: https://www.google.com/search
 description:
 
@@ -58,6 +58,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # blog_index_asides:
 # post_asides:
 # page_asides:
+
 
 # ----------------------- #
 #   3rd Party Settings    #
